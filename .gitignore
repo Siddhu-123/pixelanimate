@@ -1,0 +1,12 @@
+node_modules
+dist/
+*.tsbuildinfo
+__pycache__/
+*.pyc
+.DS_Store
+.env*
+
+# Local-only working notes and third-party reference material
+bugs.md
+transcript.en.vtt
+codex-chats/
